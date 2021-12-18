@@ -1,0 +1,29 @@
+.bg-section1 {
+  background-color:#4a6bc7;
+}
+
+.bg-section2 {
+  background-color:#4a6bc7;
+}
+
+.bg-section3 {
+  background-color:#49937e;
+}
+
+.bg-section_foot {
+  background-color:#161616;
+}
+
+p, li {
+  text-align: justify;
+  font-size: 1.2rem;
+}
+
+h1, p, li {
+  color: white;
+}
+
+#bg-white h1, #bg-white p {
+  color: black;
+}
+
